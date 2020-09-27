@@ -10,4 +10,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiro22" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuchiro22&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yuchiro22&theme=gruvbox&margin-w=15">
+</a>
