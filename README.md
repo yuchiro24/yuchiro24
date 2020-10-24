@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Excite Japan Co., Ltd.
-- 🌱 I’m currently learning Swift, Kotlin, Golang
-- 👯 I’m looking to collaborate on iOS or Android App Developers
+- 🌱 I’m currently learning Swift, Kotlin, Dart
+- 👯 I’m looking to collaborate on Mobile App Developers(Native Swift/Kotlin, Multiplutform(Flutter))
 - 📫 How to reach me: t.yuyu.alies@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
