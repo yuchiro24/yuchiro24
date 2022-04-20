@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Excite Japan Co., Ltd.
-- 🌱 I’m currently learning Swift, Kotlin, Dart
-- 👯 I’m looking to collaborate on Mobile App Developers(Native Swift/Kotlin, Multiplutform(Flutter))
+- 🌱 I’m currently using Swift, Dart(Flutter), Kotlin
+- 👯 I’m looking to collaborate on Mobile App Developers
 - 📫 How to reach me: t.yuyu.alies@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuchiro22&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
