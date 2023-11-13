@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Retty, Inc.
+- 🔭 I’m currently working on MBK Wellness Holdings.
 - 🌱 I’m currently using Swift, Dart(Flutter), Kotlin
 - 👯 I’m looking to collaborate on Mobile App Developers
 - 📫 How to reach me: t.yuyu.alies@gmail.com
